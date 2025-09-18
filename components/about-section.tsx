@@ -13,6 +13,7 @@ const interests = [
   { name: "Problem Solving", icon: Target },
 ]
 
+
 const achievements = [
   {
     icon: <GraduationCap className="h-6 w-6" />,
